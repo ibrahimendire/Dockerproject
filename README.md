@@ -1,4 +1,4 @@
-# Welcome to CloudSheger <br>
+# Welcome to Docker Project <br>
 ## This is an interactive Docker project.<br>
 ## To create a Docker image, you will need to follow these steps:<br>
 
